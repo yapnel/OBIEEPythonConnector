@@ -1,0 +1,7 @@
+/log/*
+__pycache__
+hyperd.log
+env
+env/*
+.vscode
+.vscode/*
